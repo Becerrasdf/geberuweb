@@ -1,0 +1,55 @@
+@font-face{
+    font-family: 'Fixel';
+    src: url('media/fonts/Fixel/FixelDisplay-Regular.woff2') format('woff2');
+    font-weight: 400;
+}
+
+@font-face{
+    font-family: 'Fixel';
+    src: url('media/fonts/Fixel/FixelDisplay-Medium.woff2') format('woff2');
+    font-weight: 500;
+}
+
+@font-face{
+    font-family: 'Fixel';
+    src: url('media/fonts/Fixel/FixelDisplay-SemiBold.woff2') format('woff2');
+    font-weight: 600;
+}
+
+@font-face{
+    font-family: 'Fixel';
+    src: url('media/fonts/Fixel/FixelDisplay-Bold.woff2') format('woff2');
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: 'Fixel';
+    src: url('media/fonts/Fixel/FixelDisplay-ExtraBold.woff2') format('woff2');
+    font-weight: 800;
+}
+
+@font-face{
+    font-family: 'Fixel';
+    src: url('media/fonts/Fixel/FixelDisplay-Black.woff2') format('woff2');
+    font-weight: 900;
+}
+
+@font-face {
+    font-family: 'Fixel';
+    src: url('media/fonts/Fixel/FixelDisplay-RegularItalic.woff2') format('woff2');
+    font-style: italic;
+}
+
+body {
+    font-family: 'Fixel',sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+.heading-main {
+    font-weight: 400;
+}
+
+.heading-secondary {
+    font-size: 74px;
+}
